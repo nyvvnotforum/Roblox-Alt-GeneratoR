@@ -1,6 +1,7 @@
 # Roblox-Alt-GeneratoR
 # My Awesome Software
 
+
 Welcome to My Awesome Software! This is a powerful tool that does amazing things. Below, you'll find all the information you need to get started with it.
 
 ## Installation
